@@ -1,2 +1,2 @@
 # MagiskModuleFormwork
-Mgisk模块样例
+Magisk模块模板
